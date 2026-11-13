@@ -67,7 +67,8 @@ IMDB Movie Dataset (2023–1951) containing movie name, genre, overview, directo
 - Try TF-IDF and give more weight to genre, director and cast
 - Add filters by genre and release year
 
-## 👤 Author
+## 👤 Author 
+
 
 **Your Name**
-[GitHub](https://github.com/<your-username>) | [LinkedIn](https://linkedin.com/in/<your-profile>)
+[GitHub](https://github.com/iatuls) | [LinkedIn](https://linkedin.com/in/atul-singh2)
