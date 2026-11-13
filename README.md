@@ -4,7 +4,8 @@ A content-based movie recommendation web app built with Python and Streamlit. Pi
 
 ## 🌐 Live Demo
 
-[Try the app here]([https://your-app-link.streamlit.app](https://movie-recommender-system-atul.streamlit.app/))
+[Try the app here](https://movie-recommender-system-atul.streamlit.app/)
+
 
 ## 🔍 How It Works
 
